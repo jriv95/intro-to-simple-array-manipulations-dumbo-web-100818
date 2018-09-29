@@ -43,6 +43,6 @@ def using_delete(array,string)
   array.delete(string)
 end
 
-def using_delete_at(array,num)
-  array.delete(2,num)
+def using_delete_at(famous_robots,2)
+  array.delete(num)
 end
